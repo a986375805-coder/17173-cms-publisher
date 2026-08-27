@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/version-1.4.1-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)]()
 
-> 一键完成分类、标题、正文、图片、智能填充全流程，从 10 分钟手动操作压缩到 10 秒。
+> 一键完成分类、标题、正文、图片、智能填充全流程，从 15 分钟手动操作压缩到 10 秒。
 
 ## 功能特性
 
