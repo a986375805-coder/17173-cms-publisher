@@ -1,4 +1,4 @@
-﻿# 17173 CMS 自动发布稿助手
+﻿# 17173 CMS-publisher
 
 [![Version](https://img.shields.io/badge/version-1.4.1-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)]()
